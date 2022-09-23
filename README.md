@@ -8,6 +8,7 @@
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Deployed Application](#deployed-application)
   - [Questions](#questions)
 
 ## Description
@@ -23,6 +24,10 @@ This application allows the user to type and edit their text in this text editor
 - Type in the text editor 
 - Leave and comeback and your text will still be there!
 - You can also install the application. 
+
+## Deployed Application
+
+`https://jate-text-editor-app.herokuapp.com/`
 
 ## Questions
 If you want to contact me or have any questions you can visit my [Github](https://github.com/)
