@@ -47,7 +47,6 @@ module.exports = () => {
         swDest: 'src-sw.js',
       }),
     ],
-// 33:01
     module: {
       rules: [
         {
